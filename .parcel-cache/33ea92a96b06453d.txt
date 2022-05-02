@@ -1,12 +1,10 @@
-5115
-82/home/aconkli9/ProblemSolving/practice/js-modules-exercise/utilities/difference.js1651511544560347600 0
-81/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.975ef6c8.js1651512374080347600 0
-85/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.975ef6c8.js.map1651512374080347600 0
-85/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.b2b8d0e0.js.map1651512494370347600 0
-82/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.61d3354a.css1651512373980347600 0
-86/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.61d3354a.css.map1651512373980347600 0
-86/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.a6767809.css.map1651512494370347600 0
-63/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist1651512494370347600 1
+5111
+82/home/aconkli9/ProblemSolving/practice/js-modules-exercise/utilities/difference.js1651513194990347600 0
+81/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.975ef6c8.js1651514706720347600 0
+85/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.975ef6c8.js.map1651514706720347600 0
+82/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.61d3354a.css1651514706720347600 0
+86/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.61d3354a.css.map1651514706720347600 0
+63/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist1651514706720347600 1
 68/home/aconkli9/ProblemSolving/practice/js-modules-exercise/README.md1651501582670347600 0
 71/home/aconkli9/ProblemSolving/practice/js-modules-exercise/package.json1651512467260347600 0
 73/home/aconkli9/ProblemSolving/practice/js-modules-exercise/src/index.html1651510787240347600 0
@@ -1313,7 +1311,7 @@
 108/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/css-tree/lib/syntax/node/Brackets.js1651512252080347600 0
 93/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/yaml/browser/types.js1651512252460347600 0
 118/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/@parcel/core/src/requests/ValidationRequest.js1651512253050347600 0
-74/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.html1651512494350347600 0
+74/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.html1651514706720347600 0
 84/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/yaml/LICENSE1651512251600347600 0
 139/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/@parcel/package-manager/test/fixtures/packages/foo-2.0/package.json1651512252580347600 0
 91/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/css-tree/lib/syntax1651512252770347600 1
@@ -1928,7 +1926,7 @@
 97/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/@lezer/lr/dist/parse.d.ts1651512252040347600 0
 85/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/msgpackr/dist1651512252130347600 1
 113/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/caniuse-lite/data/features/blobbuilder.js1651512252520347600 0
-58/home/aconkli9/ProblemSolving/practice/js-modules-exercise1651512373960347600 1
+58/home/aconkli9/ProblemSolving/practice/js-modules-exercise1651514706700347600 1
 112/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/abortcontroller-polyfill/src/polyfill.js1651512252050347600 0
 110/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/@swc/helpers/src/_non_iterable_rest.js1651512252730347600 0
 110/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/@babel/highlight/node_modules/has-flag1651512251690347600 1
@@ -2909,7 +2907,6 @@
 90/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/lodash/overSome.js1651512368710347600 0
 119/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/caniuse-lite/data/features/css-initial-value.js1651512252940347600 0
 91/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/lodash/unzipWith.js1651512368780347600 0
-81/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.b2b8d0e0.js1651512494360347600 0
 95/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/domhandler/lib/index.js1651512251660347600 0
 110/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/css-tree/lib/syntax/node/StyleSheet.js1651512252920347600 0
 126/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/@swc/helpers/src/_class_static_private_field_update.js1651512252650347600 0
@@ -4315,7 +4312,6 @@
 122/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/dom-serializer/node_modules/entities/lib/encode.js1651512251770347600 0
 90/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/lodash/fp/isSet.js1651512368670347600 0
 121/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/dom-serializer/node_modules/entities/lib/index.js1651512251830347600 0
-82/home/aconkli9/ProblemSolving/practice/js-modules-exercise/dist/index.a6767809.css1651512494360347600 0
 122/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/dom-serializer/node_modules/entities/lib/decode.js1651512251730347600 0
 116/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/utility-types/dist/aliases-and-guards.js.map1651512251870347600 0
 128/home/aconkli9/ProblemSolving/practice/js-modules-exercise/node_modules/dom-serializer/node_modules/entities/lib/decode.d.ts.map1651512252040347600 0
